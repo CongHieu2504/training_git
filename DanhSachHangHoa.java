@@ -23,6 +23,15 @@ public class DanhSachHangHoa {
 	public DanhSachHangHoa(ArrayList<HangHoa> ds) {
 		super();
 		this.ds = ds;
+				super();
+		this.ds = ds;
+				super();
+		this.ds = ds;
+				super();
+		this.ds = ds;
+				super();
+		this.ds = ds;
+		
 	}
 	/**
 	 * Phương thức contains() tìm kiếm chuỗi ký tự trong chuỗi này. 
